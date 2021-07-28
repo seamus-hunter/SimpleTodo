@@ -14,6 +14,10 @@ The following **required** functionality is completed:
 * [x] User can **successfully add and remove items** from the todo list
 * [x] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
+## Demo
+
+https://github.com/seamus-hunter/SimpleTodo/blob/master/demo.gif
+
 ## License
 
     Copyright 2021 Seamus English
